@@ -11,7 +11,7 @@ A backend developer with experience in Laravel, Linux server administration, and
 ## My Skills Include
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](www.linkedin.com/in/juan-castaño-a52235217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-agnihotri/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](www.linkedin.com/in/juan-castaño-a52235217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
 
 
 <h4> Known technologies </h4>
