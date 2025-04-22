@@ -10,47 +10,34 @@ A backend developer with experience in Laravel, Linux server administration, and
 📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4> Known technologies </h4>
 <span> 
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,php,py,laravel,bootstrap,postgres,mysql,vscode,androidstudio,docker,linux,git)](https://skillicons.dev">
  
 </span>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap)](https://skillicons.dev">
-</span>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev">
-</span>
 
-<h4> IDE </h4>
-<span>
- <img src="https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Vatan+Agnihotri;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg)
+# 💫 About Me:
 
-<h4> Other Tools and Technologies </h4>
-<span>
- <img src="https://skillicons.dev/icons?i=docker,linux,git)](https://skillicons.dev">
+I am a versatile Full Stack Engineer with more than 5 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
 
-</span>
+🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgnihotriVatan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-agnihotri/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
 
 
 
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    
-
-<hr>
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
-<br>	
-<a target="_blank" href="www.linkedin.com/in/juan-castaño-a52235217"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VatanAgnihotri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
