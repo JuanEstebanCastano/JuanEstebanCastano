@@ -11,7 +11,7 @@ A backend developer with experience in Laravel, Linux server administration, and
 ## My Skills Include
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](www.linkedin.com/in/juan-castaño-a52235217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
 
 
 <h4> Known technologies </h4>
@@ -27,14 +27,14 @@ A backend developer with experience in Laravel, Linux server administration, and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanEstebanCastano&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+---
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-
+---
 
 
 
