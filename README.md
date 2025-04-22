@@ -12,7 +12,7 @@ A backend developer with experience in Laravel, Linux server administration, and
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,php,py,py)](https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,php,py,laravel,bootstrap,postgres,mysql,vscode,androidstudio,docker,linux,git)](https://skillicons.dev">
  
 </span>
 
