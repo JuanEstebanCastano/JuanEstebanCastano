@@ -10,6 +10,10 @@ A backend developer with experience in Laravel, Linux server administration, and
 📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
 ## My Skills Include
 
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](www.linkedin.com/in/juan-castaño-a52235217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-agnihotri/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
+
+
 <h4> Known technologies </h4>
 <span> 
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,php,py,laravel,bootstrap,postgres,mysql,vscode,androidstudio,docker,linux,git)](https://skillicons.dev">
@@ -18,19 +22,9 @@ A backend developer with experience in Laravel, Linux server administration, and
 
 
 
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgnihotriVatan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-agnihotri/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
-
-
-
- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanEstebanCastano&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JuanEstebanCastano&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
