@@ -12,7 +12,6 @@ A backend developer with experience in Laravel, Linux server administration, and
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) 
 
----
 ## My Skills Include
 
 <h4> Known technologies </h4>
@@ -26,7 +25,6 @@ A backend developer with experience in Laravel, Linux server administration, and
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=JuanEstebanCastano&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
