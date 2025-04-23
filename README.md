@@ -11,7 +11,8 @@ A backend developer with experience in Laravel, Linux server administration, and
      📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
 </p>
 ---
-## 🌐 Socials:
+
+### 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) 
 
 ## My Skills Include
