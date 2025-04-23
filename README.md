@@ -10,6 +10,7 @@ A backend developer with experience in Laravel, Linux server administration, and
      🌱 Currently exploring modern backend technologies, DevOps, and web application development.<br>
      📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
 </p>
+
 ---
 
 ### 🌐 Socials:
