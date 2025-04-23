@@ -25,10 +25,9 @@ A backend developer with experience in Laravel, Linux server administration, and
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanEstebanCastano&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCastano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanEstebanCastano&theme=dark&hide_border=false" />
 ---
 
 <p align="center">
