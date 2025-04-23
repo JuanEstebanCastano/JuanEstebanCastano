@@ -4,10 +4,12 @@
 
 A backend developer with experience in Laravel, Linux server administration, and VoIP systems like Asterisk. I'm passionate about building solid solutions, optimizing processes, and delivering value through clean, maintainable code.
 
-💻 I spend my days creating useful tools, debugging issues, and improving platform functionality. n/
-🔍 I'm always learning more about best development practices, clean architecture, and process automation.
-🌱 Currently exploring modern backend technologies, DevOps, and web application development.
-📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
+<p>
+     💻 I spend my days creating useful tools, debugging issues, and improving platform functionality. <br>
+     🔍 I'm always learning more about best development practices, clean architecture, and process automation.<br>
+     🌱 Currently exploring modern backend technologies, DevOps, and web application development.<br>
+     📫 You’ll find me working on projects focused on efficiency, stability, and great user experience.
+</p>
 ---
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castaño-a52235217) 
